@@ -1,0 +1,23 @@
+footer {
+    background-color: rgb(241, 241, 241);
+
+    .box-redes {
+        display: flex;
+        justify-content: center;
+
+        .txt-redes {
+            text-align: center;
+            padding: 5%;
+        }
+
+        .img-redes {
+            img {
+                width: 50%;
+                padding-top: 59%;
+                margin: 5%;
+            }
+
+        }
+    }
+}
+
